@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Kotan-86/Kotan-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# こーたんのポートフォリオへようこそ！
+## 代表作
+### Sekoe
+[ろう・難聴者向けのオンライン会議でのコミュニケーションを支援するシステム](https://github.com/KISETU-ggwp/Sekoe)
+* 大学同期と共に開発。
+* アジャイル開発で進め、私は スクラムマスター & 開発者 担当
+* 予備実験で「Zoomチャットより平均４秒反応速度向上」と「待つ気まずさの軽減」を実証している
+### 自己調整学習支援システム
+[自学習環境において、学習者に学習の振り返りを支援するシステム](https://github.com/Kotan-86/system_support_selfRegulatedLearning/tree/develop)
+* 研究として実施・開発中
+* 学習の正解を教えるのではなく、学習者自身の考える・振り返る力を育てることを目的としている
+## 開発スタイル
+* ユーザ体験を起点とする開発スタイル
+  * ユーザの困りごとや経験していることを明らかにした上で、その解決アプローチとしてシステムを開発する
+  * 全部作って終わりではなく、「少し作ってはレビューしてもらう」サイクルを回して、開発する
+  * APDDを実践し、開発する
